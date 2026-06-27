@@ -34,7 +34,7 @@ make
 
 to test, run:
 
-```console=
+```console
 ./helloword |grep Hello Word
 ```
 
@@ -53,7 +53,7 @@ _cursiv_
 As bonus, create a similar problem in Python
 Start from the following skeleton:
 
-```python=
+```python
 import sys
 
 def main()
